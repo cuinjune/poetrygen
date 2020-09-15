@@ -1,5 +1,7 @@
 # poetrygen
 
+
+## Description
 This repo is the week1 assignment of the Reading and Writing Electronic Text course at ITP.
 
 The assignment is to create my own poetry generator using straightforward string manipulation techniques (e.g. concatenation, splitting, joining, indexing, etc.) in Python.
