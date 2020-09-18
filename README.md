@@ -4,7 +4,7 @@
 ## Description
 This repo is the week1 assignment of the Reading and Writing Electronic Text course at ITP.
 
-The assignment is to create my own poem generator using straightforward string manipulation techniques (e.g. concatenation, splitting, joining, indexing, etc.) in Python.
+The assignment is to create my own poetry generator using straightforward string manipulation techniques (e.g. concatenation, splitting, joining, indexing, etc.) in Python.
 
 Here's the [implementations of early and well-known poetry generators](https://github.com/aparrish/rwet/blob/master/some-poetry-generators.ipynb) which we can use as a reference.
 
