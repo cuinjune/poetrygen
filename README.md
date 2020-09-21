@@ -80,6 +80,16 @@ I tried to avoid repeating of words by incrementing the index to access the shuf
 
 It was a great learning experience to familiarize myself with Python string manipulations.
 
+## Setup
+1. Installation of python3 is required. Follow [this guide](https://realpython.com/installing-python/) to install it.
+2. Run the following commands in the Terminal.
+```
+git clone https://github.com/cuinjune/poetrygen.git
+cd poetrygen
+python3 poetrygen.py
+```
 
+## Author
+* [Zack Lee](https://www.cuinjune.com/about): an MPS Candidate at [NYU ITP](https://itp.nyu.edu).
 
 
